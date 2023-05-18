@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'Onetrustme',
     description: 'นี่คือตัวอย่างบล็อคแรกสำหรับ onetrustme',
-    siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
+    siteUrl: 'https://blog-onetrustme.netlify.app/', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml.name',
