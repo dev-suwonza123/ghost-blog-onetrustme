@@ -54,8 +54,8 @@ export type WebsiteConfig = {
 };
 
 const config: WebsiteConfig = {
-  title: 'Onetrustme การตลาดสายเทา',
-  description: 'การตลาดสายเทา',
+  title: 'Onetrustme สังคมแห่งการแบ่งปัน การตลาดสายเทา',
+  description: 'สังคมแห่งการแบ่งปัน การตลาดสายเทา By.onetrustme',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
