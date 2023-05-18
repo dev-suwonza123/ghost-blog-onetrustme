@@ -3,7 +3,7 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Onetrustme',
+    title: 'Onetrustme การตลาดสายเทา',
     description: 'นี่คือตัวอย่างบล็อคแรกสำหรับ onetrustme',
     siteUrl: 'https://blog-onetrustme.netlify.app/', // full path to blog - no ending slash
   },
