@@ -54,14 +54,14 @@ export type WebsiteConfig = {
 };
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
+  title: 'Onetrustme การตลาดสายเทา',
+  description: 'การตลาดสายเทา',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
-  facebook: 'https://www.facebook.com/ghost',
-  twitter: 'https://twitter.com/tryghost',
+  siteUrl: 'https://blog-onetrustme.netlify.app/',
+  facebook: 'https://web.facebook.com/loopper.crm.org',
+  twitter: 'https://twitter.com/creditsfree50',
   showSubscribe: true,
   mailchimpAction:
     'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
