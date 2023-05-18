@@ -54,7 +54,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://blog-onetrustme.netlify.app',
       },
     },
     'gatsby-plugin-typescript',
@@ -109,7 +109,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Ghost's Blog",
+            title: "onetrustme สังคมแห่งการแบ่งปัน การตลาดสายเทา",
             match: '^/blog/',
           },
         ],

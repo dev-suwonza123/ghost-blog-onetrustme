@@ -55,9 +55,7 @@ export type WebsiteConfig = {
 
 const config: WebsiteConfig = {
   title: 'Onetrustme สังคมแห่งการแบ่งปัน การตลาดสายเทา',
-  description: 'สังคมแห่งการแบ่งปัน การตลาดสายเทา By.onetrustme',
-  coverImage: 'img/blog-cover.png',
-  logo: 'img/ghost-logo.png',
+  description: 'การตลาดสายเทา By.onetrustme',
   lang: 'en',
   siteUrl: 'https://blog-onetrustme.netlify.app/',
   facebook: 'https://web.facebook.com/loopper.crm.org',
